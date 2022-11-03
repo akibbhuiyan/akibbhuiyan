@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @akibbhuiyan
 - 👀 I’m interested in Web Design and Development 
-- 🌱 I’m currently learning Html css bootstrap 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning React
 - 📫 How to reach me ...
 
 <!---
