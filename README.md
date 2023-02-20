@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Akib Bhuiyan
+### Hi there, My name is Akib Bhuiyan
 #### I am MERN Stack Developer
 ![I am MERN Stack Developer](https://i.ibb.co/XWTQrZd/Green-Vibrant-Professional-Data-Analyst-Linked-In-Banner.png)
 
